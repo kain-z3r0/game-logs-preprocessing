@@ -1,0 +1,10 @@
+[project]
+name = "game-logs-preprocessing"
+version = "0.0.1"
+description = "Preprocess raw baseball game logs into enriched, structured JSON for downstream use."
+requires-python = ">=3.13"
+
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
