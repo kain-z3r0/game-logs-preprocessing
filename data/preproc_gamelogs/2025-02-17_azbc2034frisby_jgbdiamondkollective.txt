@@ -1,0 +1,137 @@
+Top 1st - AZBC 2034 Frisby
+Fly Out|1 Out
+Lineup changed: A Avitia in at pitcher, Foul, In play.
+R Schmidt flies out in foul territory to first baseman C Farmer.
+Fly Out|2 Outs
+Ball 1, Strike 1 looking, In play.
+M Warren flies out to center fielder J Brooks.
+Hit By Pitch
+Ball 1, Foul, Ball 2.
+L Flower is hit by pitch, A Avitia pitching.
+Fly Out|3 Outs
+Ball 1, In play.
+D Venditte flies out to first baseman C Farmer.
+Bottom 1st - JGB Diamond Kollective 9U
+Ground Out|1 Out
+Ball 1, In play.
+C Farmer grounds out, pitcher B Esperum to first baseman L Flower.
+Walk
+Ball 1, Ball 2, Ball 3, Ball 4.
+A Gutwein walks, B Esperum pitching.
+Ground Out|2 Outs
+Strike 1 looking, A Gutwein steals 2nd, Ball 1, Strike 2 swinging, In play.
+J Brooks grounds out, second baseman G Frisby to first baseman L Flower, A Gutwein advances to 3rd.
+Fly Out|3 Outs
+In play.
+G Francis flies out to first baseman L Flower.
+Top 2nd - AZBC 2034 Frisby
+Ground Out|1 Out
+In play.
+B Coppers grounds out, third baseman G Francis to first baseman C Farmer.
+Single
+Foul, Ball 1, Foul, In play.
+G Frisby singles on a line drive to center fielder J Brooks.
+Double Play|3 Outs
+Strike 1 swinging, G Frisby steals 2nd, Ball 1, Foul, In play.
+T Mathis flies into a double play to center fielder J Brooks, G Frisby out advancing to 2nd.
+Bottom 2nd - JGB Diamond Kollective 9U
+Double
+Strike 1 looking, In play.
+J Garcia-Lopez doubles on a line drive to left fielder.
+Single|AZBC 0 - JGBD 1
+Strike 1 swinging, Strike 2 swinging, In play.
+J Martinez singles on a hard ground ball to right fielder R Roberts, J Garcia-Lopez scores, J Martinez advances to 2nd on the throw.
+Fly Out|1 Out
+Foul, In play.
+N Barajas flies out to shortstop M Warren, J Martinez remains at 2nd.
+Dropped 3rd Strike|2 Outs
+Ball 1, Strike 1 looking, Strike 2 swinging, Strike 3 swinging.
+L Ortiz out at first on dropped 3rd strike, J Martinez advances to 3rd.
+Single|AZBC 0 - JGBD 2
+Strike 1 looking, In play.
+A Avitia singles on a hard ground ball to first baseman L Flower, J Martinez scores.
+Fly Out|3 Outs
+Ball 1, A Avitia steals 2nd, Strike 1 swinging, Ball 2, In play.
+X Perez flies out to center fielder D Venditte.
+Top 3rd - AZBC 2034 Frisby
+Single
+Foul, In play.
+B Esperum singles on a hard ground ball to center fielder J Brooks.
+Walk
+Ball 1, B Esperum steals 2nd, Ball 2, Ball 3, Ball 4.
+R Roberts walks, A Avitia pitching, B Esperum remains at 2nd.
+Walk
+B Esperum steals 3rd, Ball 1, R Roberts steals 2nd, Ball 2, Ball 3, Ball 4.
+Z Egger walks, A Avitia pitching, B Esperum remains at 3rd, R Roberts remains at 2nd.
+Single|AZBC 1 - JGBD 2 | 1 Out
+Ball 1, Ball 2, In play.
+R Schmidt singles on a fly ball, right fielder N Barajas to pitcher A Avitia, Z Egger out advancing to 2nd, B Esperum scores, R Roberts advances to 3rd.
+Walk
+Ball 1, R Schmidt steals 2nd, Ball 2, Ball 3, Strike 1 looking, Foul, Ball 4.
+M Warren walks, A Avitia pitching, R Roberts remains at 3rd, R Schmidt remains at 2nd.
+Walk|AZBC 3 - JGBD 2
+R Roberts scores on passed ball, R Schmidt advances to 3rd on the same pitch, M Warren advances to 2nd on error by catcher J Martinez, Ball 1, Strike 1 swinging, Ball 2, R Schmidt scores on passed ball, M Warren steals 3rd, Foul, Ball 3, Ball 4.
+L Flower walks, C Farmer pitching, M Warren remains at 3rd.
+Double|AZBC 4 - JGBD 2 | 2 Outs
+Ball 1, L Flower steals 2nd, Ball 2, M Warren caught stealing home, catcher J Martinez to pitcher C Farmer, L Flower steals 3rd, Ball 3, Strike 1 looking, In play.
+D Venditte doubles on a line drive to left fielder A Avitia, L Flower scores.
+Ground Out|3 Outs
+Ball 1, Ball 2, D Venditte steals 3rd, In play.
+B Coppers grounds out, shortstop J Garcia-Lopez to first baseman L Ortiz.
+Bottom 3rd - JGB Diamond Kollective 9U
+Ground Out|1 Out
+In play.
+C Farmer grounds out, second baseman G Frisby to first baseman.
+Strikeout|2 Outs
+Ball 1, Strike 1 swinging, Strike 2 looking, Strike 3 swinging.
+A Gutwein strikes out swinging, L Flower pitching.
+Ground Out|3 Outs
+Strike 1 swinging, Ball 1, In play.
+J Brooks grounds out, shortstop M Warren to first baseman.
+Top 4th - AZBC 2034 Frisby
+Ground Out|1 Out
+Ball 1, In play.
+G Frisby grounds out, third baseman G Francis to first baseman L Ortiz.
+Error
+Ball 1, Strike 1 looking, Ball 2, In play.
+T Mathis hits a hard ground ball and reaches on an error by first baseman L Ortiz.
+Single
+Foul, In play.
+B Esperum singles on a line drive to right fielder N Barajas, T Mathis advances to 2nd.
+Walk
+Strike 1 swinging, T Mathis steals 3rd, Pickoff attempt at 1st, B Esperum steals 2nd, Ball 1, Ball 2, Ball 3, Strike 2 looking, Ball 4.
+R Roberts walks, C Farmer pitching, T Mathis remains at 3rd, B Esperum remains at 2nd.
+Error|AZBC 5 - JGBD 2
+In play.
+Z Egger hits a hard ground ball and reaches on an error by third baseman G Francis, T Mathis scores, B Esperum advances to 3rd, R Roberts advances to 2nd.
+Fielder's Choice|AZBC 6 - JGBD 2
+In play.
+R Schmidt grounds into fielder's choice, third baseman G Francis to catcher J Martinez, B Esperum scores, R Roberts advances to 3rd, Z Egger advances to 2nd.
+Error|AZBC 7 - JGBD 2
+In play.
+M Warren hits a fly ball and reaches on an error by center fielder J Brooks, R Roberts scores, Z Egger advances to 3rd, R Schmidt advances to 2nd.
+Fly Out|AZBC 8 - JGBD 2 | 2 Outs
+Strike 1 swinging, Ball 1, Foul, Ball 2, In play.
+L Flower flies out to left fielder EJ Amador, Z Egger scores after tagging up, R Schmidt advances to 3rd after tagging up, M Warren advances to 2nd after tagging up.
+Double|AZBC 10 - JGBD 2
+Strike 1 swinging, In play.
+D Venditte doubles on a fly ball to right fielder N Barajas, R Schmidt scores, M Warren scores.
+Single
+In play.
+B Coppers singles on a line drive to shortstop J Garcia-Lopez, D Venditte advances to 3rd.
+Line Out|3 Outs
+In play.
+G Frisby lines out to first baseman L Ortiz.
+Bottom 4th - JGB Diamond Kollective 9U
+Ground Out|1 Out
+Strike 1 looking, In play.
+G Francis grounds out, shortstop M Warren to first baseman.
+Walk
+Ball 1, Ball 2, Strike 1 swinging, Foul, Foul, Ball 3, Foul, Ball 4.
+J Garcia-Lopez walks, L Flower pitching.
+Fly Out|2 Outs
+Ball 1, J Garcia-Lopez steals 2nd, In play.
+J Martinez flies out to center fielder D Venditte, J Garcia-Lopez remains at 2nd.
+Fly Out|3 Outs
+Strike 1 swinging, J Garcia-Lopez advances to 3rd on passed ball, Ball 1, Ball 2, In play.
+N Barajas flies out to pitcher L Flower.
