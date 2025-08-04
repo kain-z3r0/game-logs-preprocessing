@@ -9,7 +9,7 @@ from itertools import product
 from faker import Faker
 
 with open("./data/players.json") as f:
-	players = json.load(f)
+    players = json.load(f)
 
 
 # nlp = spacy.load("en_core_web_lg")
@@ -33,9 +33,9 @@ last_names = [fake.last_name() for _ in range(1000)]
 hyphens = []
 
 for _ in range(500):
-	initial = random.choice(string.ascii_uppercase)
-	a, b = random.sample(last_names, 2)
-	hyphens.append(f"{initial} {a}-{b}")
+    initial = random.choice(string.ascii_uppercase)
+    a, b = random.sample(last_names, 2)
+    hyphens.append(f"{initial} {a}-{b}")
 
 players.extend(hyphens)
 
@@ -46,9 +46,9 @@ players.extend(nums)
 # Jrs
 jrs = []
 for _ in range(500):
-	init = random.choice(string.ascii_uppercase)
-	lname = random.choice(last_names)
-	jrs.append(f"{init} {lname} Jr.")
+    init = random.choice(string.ascii_uppercase)
+    lname = random.choice(last_names)
+    jrs.append(f"{init} {lname} Jr.")
 
 players.extend(jrs)
 
@@ -56,9 +56,9 @@ players.extend(jrs)
 # A Lastname
 std = []
 for _ in range(2000):
-	init = random.choice(string.ascii_uppercase)
-	last_name = random.choice(last_names)
-	std.append(f"{init} {last_name}")
+    init = random.choice(string.ascii_uppercase)
+    last_name = random.choice(last_names)
+    std.append(f"{init} {last_name}")
 
 players.extend(std)
 
@@ -72,10 +72,10 @@ players.extend(std)
 
 
 def generate_rules(patterns):
-	nlp = English()
-	ruler = nlp.add_pipe("entity_ruler", config = {"validate": True})
-	ruler.add_patterns(patterns)
-	nlp.to_disk("rb_ner")
+    nlp = English()
+    ruler = nlp.add_pipe("entity_ruler", config = {"validate": True})
+    ruler.add_patterns(patterns)
+    nlp.to_disk("rb_ner")
 
 
 patterns = [{"label": "PERSON", "pattern": player} for player in players]
@@ -85,22 +85,31 @@ generate_rules(patterns)
 
 
 def main():
-	nlp = spacy.load("rb_ner")
+    nlp = spacy.load("rb_ner")
 
-	text = Path("./data/test_data.txt").read_text()
+    ruler = nlp.get_pipe("entity_ruler")
+    print([p for p in ruler.patterns if p["pattern"] == "C V"])
 
-	doc = nlp(text)
+    text = Path("combined.txt").read_text()
+    doc = nlp(text)
 
-	results = [ent.text for ent in doc.ents]
+    players = {ent.text for ent in doc.ents}  # set
 
-	print(results)
+    with open("./data/players.json") as f:
+        old_players = json.load(f)
 
+    old_set = set(old_players)
 
+    removed = sorted(old_set - players)  # in old but missing now
+    added = sorted(players - old_set)    # new ones
 
-
+    out_path = Path("data/new_players.json")
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    with out_path.open("w") as f:
+        json.dump(sorted(players), f, indent=4)
 
 
 
 
 if __name__ == "__main__":
-	main()
+    main()
